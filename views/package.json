@@ -2,7 +2,7 @@
   "name": "views",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Idir6380.github.io/mixin",
+  "homepage": "https://Idir6380.github.io/mixinsite",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
