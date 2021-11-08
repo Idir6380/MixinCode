@@ -1,0 +1,41 @@
+.head {
+  padding-right: 10rem;
+  padding-left: 10rem;
+
+  width: 100%;
+}
+.container {
+  justify-content: space-between;
+  margin: 3rem;
+}
+.logo {
+  float: left;
+  width: 30px;
+  height: 44.63px;
+  left: 374px;
+  top: 1434px;
+  margin-right: 3rem;
+}
+.text {
+  float: left;
+}
+.title {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 104px;
+  line-height: 97px;
+
+  /* or 93% */
+
+  text-align: center;
+  letter-spacing: 0.06em;
+}
+.line {
+  width: 111px;
+  height: 10px;
+  left: 149px;
+  top: 372px;
+
+  background: #fc8e5b;
+}
